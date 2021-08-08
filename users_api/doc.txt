@@ -1,0 +1,4 @@
+/api/user-create/  =>  POST
+/api/user-rud/[USERNAME]/  =>  GET/PUT/PATCH/DELETE
+/api/token/    =>  POST
+/api/token/delete/ =>  DELETE
